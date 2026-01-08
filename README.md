@@ -50,7 +50,7 @@ Run the program from the terminal:
 ```bash
 python loginforge.py
 ```
-
+```bash
 ## Available Commands
 login            - Authenticate a user
 logout           - End current session
@@ -59,4 +59,4 @@ change password  - Update password for logged-in user
 history          - View authentication audit log
 help             - Show command list
 exit             - Exit the program
-
+```
