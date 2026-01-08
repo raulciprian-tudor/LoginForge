@@ -50,8 +50,9 @@ Run the program from the terminal:
 ```bash
 python loginforge.py
 ```
-```bash
+
 ## Available Commands
+```bash
 login            - Authenticate a user
 logout           - End current session
 unlock           - Unlock a locked user (admin only)
