@@ -49,6 +49,7 @@ Run the program from the terminal:
 
 ```bash
 python loginforge.py
+```
 
 ## Available Commands
 login            - Authenticate a user
